@@ -98,7 +98,7 @@ nav {
     text-align: left;
 }
 
-.section-about__title {;
+.section-about__title {
     font-size: 36px;
     margin: 0;
     margin-bottom: 9px;
@@ -106,7 +106,7 @@ nav {
 }
 
 .section-about__text {
-    font-size: 10px;
+    font-size: 12px;
     margin: 0;
 }
 
